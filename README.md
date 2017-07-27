@@ -1,12 +1,3 @@
-## Nodejs in 10 minutes
+//Run
 
-clone the project
-
-### Installations
-* npm install
-
-### Run
-
-* npm run start
-
-:)
+npm run start
